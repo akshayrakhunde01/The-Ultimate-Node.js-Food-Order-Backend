@@ -1,0 +1,27 @@
+{
+  "name": "food-order-backend",
+  "version": "1.0.0",
+  "description": "creating a powerful food ordering backend using Node.js - use of advance node js  -best practices",
+  "homepage": "https://github.com/akshayrakhunde01/The-Ultimate-Node.js-Food-Order-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/akshayrakhunde01/The-Ultimate-Node.js-Food-Order-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayrakhunde01/The-Ultimate-Node.js-Food-Order-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Akshay Rakhunde",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3"
+  }
+}
